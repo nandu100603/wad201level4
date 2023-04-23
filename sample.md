@@ -78,7 +78,5 @@ namespace MyLibrary {
     }
 }
 ```
-# IARE
-## IARE
-### IARE
-#### IARE
+### Advantages of namespaces in C++:
+**1. Name Collision Prevention:**Namespaces help in preventing name collisions betwee different identifiers that might be defined in different parts of the code
