@@ -7,5 +7,6 @@ However, this is normally sufficiently large that it doesn’t represent a serio
 Most of the time you won’t need to use names of more than 12 to 15 characters.
 
 #### Here are some valid C++ names:
-
-`toe_count`   `**shoeSize**`  `Box`    `democrat`     `Democrat`     `number1`    `x2`    `y2`     `pValue`     `out_of_range`
+```
+`toe_count`   `shoeSize`  `Box`    `democrat`     `Democrat`     `number1`    `x2`    `y2`     `pValue`     `out_of_range`
+```
