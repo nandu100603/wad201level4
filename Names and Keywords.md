@@ -25,3 +25,4 @@ class    double   throw   catch
 - [x] TIP 
 
  Do not use names that start with an underscore
+■ Tip Do not use names that start with an underscore.
