@@ -23,4 +23,4 @@ class  double throw catch
 - Within the global namespace: all names that begin with an underscore
 
 - [x] TIP 
-- [ ] Do not use names that start with an underscore
+ Do not use names that start with an underscore
