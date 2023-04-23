@@ -20,7 +20,7 @@ int main() {
 ```
 ### Nested Namespaces IN C++
 - Namespaces can be nested inside other namespaces, creating a hierarchical organization of code.
-- To define a nested namespace, use the ‘namespace’ keyword inside another namespace.
+- To define a nested namespace, use the ` namespace ` keyword inside another namespace.
 ```cpp
 namespace Outer {
     namespace Inner {
