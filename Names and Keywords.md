@@ -11,3 +11,15 @@ Most of the time you won’t need to use names of more than 12 to 15 characters.
 toe_count   shoeSize  Box    democrat     Democrat     number1    x2    y2     pValue     out_of_range  HI  _HI 
 ```
 - Uppercase and lowercase are differentiated, so democrat is not the same name as Democrat.
+- HI and _HI is both are different names.
+# KEYWORDS
+-Keywords are reserved words that have a specific meaning in C++, so you must not use them for other purposes.
+```
+class  double throw catch 
+```
+### Other names that you are not supposed to use include the following:
+- Names that begin with two consecutive underscores
+- Names that begin with an underscore followed by an uppercase letter
+- Within the global namespace: all names that begin with an underscore
+
+-[*] TIP Do not use names that start with an underscore
