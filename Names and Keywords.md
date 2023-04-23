@@ -22,7 +22,4 @@ class    double   throw   catch
 - Names that begin with an underscore followed by an uppercase letter
 - Within the global namespace: all names that begin with an underscore
 
-- [x] TIP 
-
- Do not use names that start with an underscore
-■ Tip Do not use names that start with an underscore.
+■ Tip    Do not use names that start with an underscore.
