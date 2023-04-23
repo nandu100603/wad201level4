@@ -15,7 +15,7 @@ toe_count   shoeSize  Box    democrat     Democrat     number1    x2    y2     p
 # KEYWORDS
 -Keywords are reserved words that have a specific meaning in C++, so you must not use them for other purposes.
 ```
-class  double throw catch 
+class    double   throw   catch 
 ```
 ### Other names that you are not supposed to use include the following:
 - Names that begin with two consecutive underscores
