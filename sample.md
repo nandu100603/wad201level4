@@ -81,12 +81,16 @@ namespace MyLibrary {
 ### Advantages of namespaces in C++:
 **1. Name Collision Prevention:**
 Namespaces help in preventing name collisions betwee different identifiers that might be defined in different parts of the code
+
 **2. Organization of Code:**
 Namespaces can be used to group related identifiers together, making the code more organized and easier to understand.
+
 **3. Encapsulation:**
 Namespaces can be used to encapsulate implementation details of a library or a module, by hiding internal identifiers from the outside world.
+
 **4. Ease of Maintenance:**
 By organizing code and encapsulating implementation details, namespaces make code easier to maintain and update.
+
 **5. Aliasing:**
 Namespaces can be used to provide aliases for long or complex names, making the code more concise and readable.
 
